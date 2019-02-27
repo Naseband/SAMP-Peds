@@ -25,7 +25,7 @@ the Node Net for custom maps and the server.
 - Flee from threats - vehicles, players, objects or locations (explosions) [DONE]
 - Aggro/FOF respecting PEDGRPs
 - Ped vs Ped Fighting
-- Free Roam/return to node when attacking using CA/FCNPC Pathfinding
+- Free Roam/return to node when attacking and find position for clear LoS using CA/FCNPC Pathfinding
 - Bench, Gamble, Smoking Attractors
 - Finding places for random animations
 - Custom Gangs/Factions (useful for GW and maybe RP related servers)
