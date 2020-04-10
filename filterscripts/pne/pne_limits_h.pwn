@@ -22,4 +22,4 @@
 
 #define PED_DEBUG_BUBBLES			false
 
-#define PEDS_CREATE_GANG_ZONES		true
+#define PEDS_CREATE_GANG_ZONES		false
