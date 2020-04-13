@@ -25,6 +25,10 @@ the Node Net for custom maps and the server.
 
 - The nodes are currently stored by the script, this will become a problem later on so I will switch to the GPS or memory plugin at some point
 
+# Map of current Node Net
+
+![Map](https://github.com/Naseband/SAMP-Peds/blob/master/pednodes_map_s.jpg)
+
 # Thanks to
 
 - ziggi, OrMisicL (FCNPC)
